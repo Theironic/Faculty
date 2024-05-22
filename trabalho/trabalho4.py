@@ -1,3 +1,20 @@
+#Enunciado: Você e sua equipe de programadores foram contratados por pequena empresa para desenvolver o software de gerenciamento de livros. Este software deve ter o seguinte menu e opções:
+
+#  1) Cadastrar Livro
+# 2) Consultar Livro
+#    1. Consultar Todos 
+#   2. Consultar por Id
+#  3. Consultar por Autor
+# 4. Retornar ao menu
+# 3) Remover Livro
+# 4) Encerrar Programa
+
+
+
+
+
+
+
 #boas vindas
 
 print("bem vindo a livraria do Lucca Souza !")
